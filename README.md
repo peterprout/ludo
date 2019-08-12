@@ -1,10 +1,11 @@
-# CS3505_team_1
+# Team 1 Presents: Ludo
 Team 1's Git repository for Ludo
 
-which require python3 and pygame installed
+This application requires python3 and pygame installed
+https://www.python.org/downloads/
+https://www.pygame.org/
 
 Python Docstring details - https://www.python.org/dev/peps/pep-0257/		
-
 Google Python Style Guide - https://google.github.io/styleguide/pyguide.html#Python_Style_Rules
 
 Please look at Documentation/User Documentation.pdf for notes on how to run the Ludo game locally (The AWS server is currently offline - may put online on a new service if there is interest).
